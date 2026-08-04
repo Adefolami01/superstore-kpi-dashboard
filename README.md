@@ -2,7 +2,7 @@
 
 *A 1-page interactive sales dashboard built in Google Sheets, covering regional performance, category trends, and top customers.*
 
-🔗 **Live Dashboard:** *[add your Google Sheet link here — set sharing to "Anyone with the link can view"]*
+🔗 **Live Dashboard:** *(https://docs.google.com/spreadsheets/d/10HTrc656qbuX3ehX-AfILYh_PX9PJS-hEPQSDziBCsw/edit?usp=sharing)*
 
 ---
 
