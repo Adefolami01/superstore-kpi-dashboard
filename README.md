@@ -63,7 +63,7 @@ This dashboard tracks sales performance across regions, product categories, and 
 
 ## 6. Screenshots
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
